@@ -19,7 +19,7 @@
  <div>
     <ul>
       <li>🔭 I’m currently working on Frontend & Backend </li>
-      <li> I’m looking to collaborate on <a href="#">LinkedIn</a>  & <a href="#">Github</a>  </li>
+      <li> I’m looking to collaborate on <a href="https://www.linkedin.com/in/himanshu-meshram-himanshum/">LinkedIn</a>  & <a href="#">Github</a>  </li>
       <li>⚡  Have a look at my <a href="#">Portfolio</a> </li>
     </ul>
 </div>
